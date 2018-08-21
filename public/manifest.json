@@ -1,0 +1,8 @@
+{
+  "short_name": "drum machine",
+  "name": "Drum_Machine",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
